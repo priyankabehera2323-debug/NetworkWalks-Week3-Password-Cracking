@@ -1,8 +1,6 @@
-# NetworkWalks — Week 3 Project Modules
-
 ## 🔐 Password Cracking Labs
 
-This repository contains my Week 3 cybersecurity project work from the NetworkWalks training program.
+This repository contains my Week 3 cybersecurity project work from NetworkWalks.
 
 The two mandatory Week 3 modules demonstrate password recovery techniques using:
 
@@ -10,7 +8,7 @@ The two mandatory Week 3 modules demonstrate password recovery techniques using:
 - NetworkWalks Hash Calculator
 - NetworkWalks Password Cracker
 
-All activities were performed against the authorized training files provided for the lab.
+All activities were performed against the authorized files provided for the lab.
 
 ---
 
@@ -92,15 +90,15 @@ Each project folder contains screenshots documenting the corresponding lab steps
 
 ## 🔒 Authorization & Ethical Use
 
-These techniques were performed only against the authorized training material supplied for the NetworkWalks cybersecurity laboratory.
+These techniques were performed only against the authorized material supplied for the NetworkWalks cybersecurity laboratory.
 
 Password-cracking tools should only be used against files, systems, or accounts for which explicit authorization has been provided.
 
 ---
 
-## 📚 Training
+## 📚 Reference
 
-**Program:** NetworkWalks Cybersecurity & Ethical Hacking
+**Source:** NetworkWalks Cybersecurity & Ethical Hacking
 **Week:** 3
 **Modules:** W3-PM1 and W3-PM2
 
